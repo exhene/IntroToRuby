@@ -1,4 +1,4 @@
-# IntroToRuby
+# TestingRuby
 
 Ruby is an open-source, high-level programming language that was first released in 1995 by Yukihiro Matsumoto in Japan. It has a simple, elegant syntax that emphasizes readability and productivity, making it a popular choice for web development, especially with the Ruby on Rails framework.
 
